@@ -1,0 +1,187 @@
+
+.full-width {
+    width: 1200px ;
+    margin: 0 auto;
+}
+.top,
+.bottom {
+	margin: 0 auto;
+	clear: both;
+}
+body {font-family: 'Montserrat', Helvetica, Arial, sans-serif;}
+
+/* Header */
+header {
+    height: 110px;
+    border-bottom: 3px solid #77a466;
+    margin: 0 auto;
+}
+header h1 {
+    float: left;
+    margin: 0;
+    padding: 38px 0;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+header h1 span {
+    color: #77a466;
+}
+header nav {
+    float: right;
+    padding: 46px 0;
+}
+header nav ul li {
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 14px;
+	padding: 0 10px;
+	display: inline;
+}
+header nav ul li a{
+	text-decoration: none;
+	color:#77a466;
+}
+header nav ul {
+	margin: 0;
+	padding: 0;
+}
+
+/*Welcome Section*/
+img {
+    height: auto;
+    float: left;
+    border-bottom: 3px solid #77a466;
+}
+
+.welcome {
+    height: auto;
+    float: left;
+}
+.welcome h2 {
+    text-align: left;
+	padding: 5px 0;
+    color: #77a466;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.welcome p {
+    padding: 0;
+	font-size: 16px;
+	line-height: 25px;
+}
+
+/* Left Section */
+.left-section {
+    width: 399px;
+	height: auto;
+	float: left;
+	border-top: 1px solid #eee;
+}
+.left-section h4 {
+    padding: 0 0;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+#specials {
+    list-style: none;
+    padding: 0;
+}
+#specials li {
+    padding: 5px 0;
+	color:#77a466;
+}
+
+/* Middle Section */
+.middle-section {
+    width: 399px;
+	height: auto;
+	float: left;
+	border-top: 1px solid #eee;
+}
+.middle-section h4 {
+    padding: 0 30px;   
+    text-transform: uppercase;
+    font-weight: 700; 
+}
+.middle-section {
+    border-left: 1px solid #eee;
+	border-right: 1px solid #eee;
+}
+#reviews {
+    color: #333;
+	font-size: 14px;
+    line-height: 21px;
+    padding: 0 30px;
+}
+/* Right Section */
+.right-section h4 {
+    padding: 0 30px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.right-section {
+    width: 399px;
+	height: auto;
+	float: left;
+    border-top: 1px solid #eee; 
+}
+
+#address {
+	font-size: 16px;
+    line-height: 24px;
+    padding: 0 30px;
+    }
+
+/* Footer */
+
+footer {
+	height: 50px;
+	border-top: 1px solid #eee;
+	margin: 0 auto;
+	clear: both;
+	text-align: center;
+}
+footer span {
+	font-family: 'Cedarville Cursive', cursive;
+	text-transform: lowercase;
+	color: #77a466;
+	font-size: 25px;
+}
+
+/*********************************** MENU ********************************/
+#menu-image {
+    width: 1200px;
+    border-bottom: 3px solid #77a466;
+    float: left;
+}
+
+.menu-items h2 {
+    text-align: left;
+	padding: 5px 0;
+    color: #77a466;
+    text-transform: uppercase;
+    font-weight: 700;  
+}
+.menu-items h3 { 
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.menu-third {
+    width: 400px;
+    float: left;
+    
+}
+.menu-third p {
+    color: #333;
+	font-size: 14px;
+    line-height: 21px;
+    
+    
+}
+.menu-third img {
+    width: 390px;
+    height: 247px;
+    border-top: 3px solid #77a466;
+    float: left;
+}
